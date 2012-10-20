@@ -1,0 +1,4 @@
+<property name="Height" value="180" type="Integer" />
+<property name="Weight" value="65" type="Integer" />
+<property name="Hair" value="Brown" type="String" />
+<property name="Eyes" value="Brown" type="String" />
